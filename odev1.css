@@ -1,0 +1,23 @@
+header,article {
+    text-align: center;
+}
+
+.color-title {
+    color: black;
+    font-size: 35px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.background {
+    background-color: rgba(188, 234, 245, 0.723);
+    
+}
+
+ol,ul {
+    list-style-position: inside;
+}
+
+.font-size-p {
+    font-size: 18px;
+
+}
